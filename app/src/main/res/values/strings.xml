@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Números aleatorios</string>
+    <string name="next_button">Generar</string>
+    <string name="random_number">Toca el botón para comenzar</string>
+</resources>
